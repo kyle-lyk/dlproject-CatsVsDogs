@@ -8,7 +8,7 @@ Tutorial & Guide by: [sentdex](https://www.youtube.com/user/sentdex)
 
 References : 
 
-i) [MOHAMMED AHMED SUBHI, SAWAL HAMID ALI, MOHAMMED ABULAMEER MOHAMMED (2019). Vision-Based Approaches for Automatic Food Recognition and Dietary Assessment](https://ieeexplore.ieee.org/ielx7/6287639/8600701/08666636.pdf?tp=&arnumber=8666636&isnumber=8600701&ref=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8=)
+i) [Tushar Jajodia, Pankaj Garg (2019). Image Classification – Cat and Dog Images](https://www.irjet.net/archives/V6/i12/IRJET-V6I1271.pdf)
 
 ii) [TFLearn sample codes](https://pythonprogramming.net/tflearn-machine-learning-tutorial/)
 
