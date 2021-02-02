@@ -18,7 +18,7 @@ ii) [TFLearn sample codes](https://pythonprogramming.net/tflearn-machine-learnin
 - 0.96 accuracy with 25k train & test datasets
 - Be tolerant with one prediction error in this 3x5 demo output
 
-(![cvd demo output 0 96 acc](https://user-images.githubusercontent.com/68454409/106591701-8dde1980-6589-11eb-89ee-dcab8320bef6.png))
+![cvd demo output 0 96 acc](https://user-images.githubusercontent.com/68454409/106591701-8dde1980-6589-11eb-89ee-dcab8320bef6.png)
 
 ### Tensorboard Graph :
 - 0.8 smoothing from raw graph
