@@ -8,7 +8,7 @@ Tutorial & Guide by: [sentdex](https://www.youtube.com/user/sentdex)
 
 ### Demo output with matplotlib :
 - 0.96 accuracy with 25k train & test datasets
-- Please tolerate with some error prediction in this 3x4 demo output
+- Be tolerate with some error prediction in this 3x4 demo output
 
 ![cvd demo output 0 96 acc](https://user-images.githubusercontent.com/68454409/106564595-662a8980-6568-11eb-8919-e7558a92d925.png)
 
