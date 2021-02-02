@@ -12,6 +12,8 @@ i) [MOHAMMED AHMED SUBHI, SAWAL HAMID ALI, MOHAMMED ABULAMEER MOHAMMED (2019). V
 
 ii) [TFLearn sample codes](https://pythonprogramming.net/tflearn-machine-learning-tutorial/)
 
+-------
+
 ### Demo output with matplotlib :
 - 0.96 accuracy with 25k train & test datasets
 - Be tolerate with one prediction error in this 3x4 demo output
@@ -22,6 +24,7 @@ ii) [TFLearn sample codes](https://pythonprogramming.net/tflearn-machine-learnin
 - 0.8 smoothing from raw graph
 
 ![cvd tensorboard accuracy graphs](https://user-images.githubusercontent.com/68454409/106564633-717db500-6568-11eb-993d-94d1266b58a7.png)
+
 
 ### Brief Layers for Convolutional Networks :
 
