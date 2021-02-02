@@ -1,6 +1,6 @@
 # dlproject-catsvsdogs
 
-Cats vs Dogs Image Classification Project with Tensorflow (Convolutional Neural Network)
+Cats vs Dogs Image Classification Project with Tensorflow Deep Learning (Convolutional Neural Network)
 
 Data & Info from : https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview
 
