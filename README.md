@@ -16,7 +16,7 @@ ii) [TFLearn sample codes](https://pythonprogramming.net/tflearn-machine-learnin
 
 ### Demo output with matplotlib :
 - 0.96 accuracy with 25k train & test datasets
-- Be tolerate with one prediction error in this 3x4 demo output
+- Be tolerant with one prediction error in this 3x4 demo output
 
 ![cvd demo output 0 96 acc](https://user-images.githubusercontent.com/68454409/106564595-662a8980-6568-11eb-8919-e7558a92d925.png)
 
