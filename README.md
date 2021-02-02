@@ -1,6 +1,6 @@
 # dlproject-catsvsdogs
 
-Data & Info from : https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/leaderboard
+Data & Info from : https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview
 
 ### Demo output (with 0.91 accuracy):
 
