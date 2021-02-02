@@ -17,3 +17,7 @@ Tutorial & Guide by: [sentdex](https://www.youtube.com/user/sentdex)
 
 ![cvd tensorboard accuracy graphs](https://user-images.githubusercontent.com/68454409/106564633-717db500-6568-11eb-993d-94d1266b58a7.png)
 
+### Brief Layers for Convolutional Networks :
+
+![Convolutional Neural Network Layers](https://user-images.githubusercontent.com/68454409/106565752-4005e900-656a-11eb-8722-eb97aadb605b.jpeg)
+
