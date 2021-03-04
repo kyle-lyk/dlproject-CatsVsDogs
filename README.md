@@ -1,10 +1,17 @@
 # dlproject-catsvsdogs
+-------
+## Intro
+This is my very first machine learning (deep learning) project. <br>
+Info and Datasets are obtained from kaggle website (link provided in info). <br>
+Sample codes for CNN algorithms obtained from TFLearn tutorial written by sentdex (link provided in invo - references) <br>
 
+-------
+## Info
 Cats vs Dogs Image Classification Project with Tensorflow Deep Learning (Convolutional Neural Network)
 
 Data & Info from : https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview
 
-Tutorial & Guide by: [sentdex](https://www.youtube.com/user/sentdex)
+Sample codes & Guide by: [sentdex](https://www.youtube.com/user/sentdex)
 
 References : 
 
