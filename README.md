@@ -1,8 +1,9 @@
 # dlproject-catsvsdogs
 -------
 ## Intro
-This is my very first machine learning (deep learning) project. <br>
-Info and Datasets are obtained from kaggle website (link provided in info). <br>
+This is my very first machine learning (deep learning) project, <br>
+which is used to train the machine to recognize whether the input image is a cat or dog. <br>
+Info and Datasets are obtained from Kaggle website (link provided in info). <br>
 Sample codes for CNN algorithms obtained from TFLearn tutorial written by sentdex (link provided in invo - references) <br>
 
 -------
