@@ -24,7 +24,7 @@ ii) [TFLearn sample codes](https://pythonprogramming.net/tflearn-machine-learnin
 
 ### Demo output with matplotlib :
 - 0.96 accuracy with 25k train & test datasets
-- Be tolerant with one prediction error in this 3x5 demo output
+- One prediction error is shown in this 3x5 demo output
 
 ![cvd demo output 0 96 acc](https://user-images.githubusercontent.com/68454409/106591701-8dde1980-6589-11eb-89ee-dcab8320bef6.png)
 
@@ -33,8 +33,4 @@ ii) [TFLearn sample codes](https://pythonprogramming.net/tflearn-machine-learnin
 
 ![cvd tensorboard accuracy graphs](https://user-images.githubusercontent.com/68454409/106564633-717db500-6568-11eb-993d-94d1266b58a7.png)
 
-
-### Brief Layers for Convolutional Networks :
-
-![Convolutional Neural Network Layers](https://user-images.githubusercontent.com/68454409/106565752-4005e900-656a-11eb-8722-eb97aadb605b.jpeg)
 
